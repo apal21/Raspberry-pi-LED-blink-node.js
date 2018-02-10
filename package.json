@@ -1,0 +1,20 @@
+{
+  "name": "led-blinking",
+  "version": "0.0.1",
+  "description": "Raspberry PI GPIO LED blinking.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "Raspberry-pi",
+    "GPIO",
+    "LED",
+    "blink"
+  ],
+  "author": "Apal Shah",
+  "license": "MIT",
+  "dependencies": {
+    "onoff": "^1.1.9"
+  }
+}
